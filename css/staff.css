@@ -88,7 +88,7 @@ h2 {
 
 .owner,
 .manager,
-.webdev,
+.developer,
 .admin {
 	padding: 12px;
 }
@@ -96,7 +96,7 @@ h2 {
 .owner {background-color: rgba(244, 65, 65, .5);}
 .manager {background-color: rgba(66, 134, 244, .5);}
 .admin {background-color: rgba(59, 211, 42, .5);}
-.webdev {background-color: rgba(86, 50, 205, 0.5);}
+.developer {background-color: rgba(86, 50, 205, 0.5);}
 
 /* Footer */
 footer {
